@@ -14,7 +14,7 @@ Ruby on Rails中心で開発していた当時の自分にとってDIの概念�
 
 ## ソースコード
 <LinkCard
-  img="/poker-api-nest.svg"
+  img="/my-pokers/poker-api-nest.svg"
   link="https://github.com/satokiy/poker-api-nest"
   alt="poker-api-nest"
 />
