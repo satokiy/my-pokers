@@ -18,8 +18,8 @@ features:
   - icon:
       src: rails.svg
     link: /collections/ruby_on_rails
-    details: Ruby on Rails
-  - details: Node.js
+    title: Ruby on Rails
+  - title: Node.js
     icon:
       src: node_js.svg
     link: /collections/node_js
