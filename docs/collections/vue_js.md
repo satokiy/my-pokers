@@ -13,7 +13,7 @@ Netlifyにデプロイしており、以下で遊べます。
 
 ## ソースコード
 <LinkCard
-  img="/poker-app-vue.svg"
+  img="/my-pokers/poker-app-vue.svg"
   link="https://github.com/satokiy/poker-app-vue"
   alt="poker-app-vue"
 />

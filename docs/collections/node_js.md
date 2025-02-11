@@ -10,7 +10,7 @@ Node.js * Express でポーカーの役判定を実装しました。
 
 ## ソースコード
 <LinkCard
-  img="/poker_express.svg"
+  img="/my-pokers/poker_express.svg"
   link="https://github.com/satokiy/poker_express"
   alt="poker-express"
 />
