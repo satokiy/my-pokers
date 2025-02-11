@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Poker Challenges",
   description: "poker app collections with various languages",
+  base: "/my-pokers/",
   markdown: {
     image: {
       lazyLoading: true
