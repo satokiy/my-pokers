@@ -32,8 +32,8 @@ export default defineConfig({
         items: [
           { text: 'Ruby on Rails', link: '/collections/ruby_on_rails' },
           { text: 'Node.js', link: '/collections/node_js' },
-          { text: 'Vue.js', link: '/collections/vue_js' },
           { text: 'NestJS', link: '/collections/nest_js' },
+          { text: 'Vue.js', link: '/collections/vue_js' },
           { text: 'Gradle', link: '/collections/gradle' },
         ]
       }

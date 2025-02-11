@@ -10,5 +10,5 @@ outline: deep
 
 ## ソースコード
 
-※ 貼ろうと思ったのですが private repository だったので割愛。
+※ 貼ろうと思ったのですが private repository で作成しており、公開しても大丈夫か確認していないため割愛....
 
