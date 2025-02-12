@@ -10,14 +10,13 @@ https://satokiy.github.io/my-pokers/
 
 ```sh
 npm run docs:dev
-// go to http://localhost:5173/my-pokers/
+// http://localhost:5173/my-pokers/
 ```
 
-[!NOTE]
-For deploying to Github Pages, base path is set to `/my-pokers/`.  
-This affects the path of the assets.  
-
-```js
+> [!NOTE]
+> For deploying to Github Pages, base path is set to `/my-pokers/`.  
+> This affects the path of the assets.  
+> ref: https://vitepress.dev/guide/deploy#github-pages
 
 ## Deploy
 
