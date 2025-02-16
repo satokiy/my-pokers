@@ -35,6 +35,10 @@ features:
     icon:
       src: gradle.svg
     link: /collections/gradle
+  - title: Lua
+    icon:
+      src: lua.png
+    link: /collections/lua
 
 ---
 
