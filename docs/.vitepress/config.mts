@@ -36,6 +36,7 @@ export default defineConfig({
           { text: 'NestJS', link: '/collections/nest_js' },
           { text: 'Vue.js', link: '/collections/vue_js' },
           { text: 'Gradle', link: '/collections/gradle' },
+          { text: 'Lua', link: '/collections/lua' },
         ]
       }
     ],
